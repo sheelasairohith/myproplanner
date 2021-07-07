@@ -1,0 +1,39 @@
+body {
+    font-family: "Karla", sans-serif;
+    background-color: #d0d0ce;
+    min-height: 100vh;
+     }
+.search{
+    align-items: center;
+    align-content: center;
+    margin-left: 500px;
+
+    padding-top: 65px;
+    
+    
+}
+.search>h2{
+    position: relative;
+    left: 115px;
+}
+#search{
+    width: 550px !important;
+    height: 50px;
+}
+#moviecontent{
+    background-color: darkgrey;
+    position: absolute;
+    width: 90%;
+    top:250px;
+    left: 95px;
+    height: 60%;
+    border-radius: 10px;
+    text-align:  center;
+}
+.movie{
+  background-color: lightgrey;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}

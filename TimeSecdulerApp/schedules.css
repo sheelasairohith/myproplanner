@@ -1,0 +1,47 @@
+body {
+    font-family: "Karla", sans-serif;
+    background-color: #d0d0ce;
+    min-height: 100vh;
+    margin-top: 55px;
+     }
+.search{
+    align-items: center;
+    align-content: center;
+    margin-left: 500px;
+
+    padding-top: 65px;
+    
+    
+}
+.search>h2{
+    position: relative;
+    left: 115px;
+}
+#search{
+    width: 550px !important;
+    height: 50px;
+}
+#schedulecontent{
+    background-color: darkgrey;
+    position: absolute;
+    width: 90%;
+   
+    left: 95px;
+    border-radius: 10px;
+    text-align:  center;
+}
+#addbtn{
+    float: right;
+    position: absolute;
+    
+    right: 0px;
+}
+.schedules{
+  background-color: lightgrey;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}
+
+
